@@ -1,0 +1,1 @@
+{  "name": "grid-trading-bot",  "version": "1.0.0",  "description": "A grid trading bot for Solana using Jupiter DEX",  "main": "api.py",  "scripts": {    "start": "python api.py"  },  "dependencies": {    "express": "^4.17.1",    "axios": "^0.21.1"  }}
